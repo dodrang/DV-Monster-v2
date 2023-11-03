@@ -451,7 +451,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "url": "https://github.com/dodrang/DV-Monster-v2/blob/main/options.txt",
+            "url": "https://raw.githubusercontent.com/dodrang/DV-Monster-v2/main/options.txt",
             "path": "options.txt"
           }
         },
