@@ -509,9 +509,9 @@
           "name": "Pixelmon",
           "type": "ForgeMod",
           "artifact": {
-            "size": 410259382,
-            "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.16.5-9.1.8-universal.jar",
-            "MD5": "0fec1d7cdbab8bcc2d72bbbc7857617c"
+            "size": 412630746,
+            "url": "https://download.nodecdn.net/containers/reforged/universal/release/Pixelmon-1.16.5-9.1.9-universal.jar",
+            "MD5": "f5f08dfcba20b0be22adfc6d094b296960d5583c"
           }
         }
       ]
