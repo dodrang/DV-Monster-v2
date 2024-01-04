@@ -13,7 +13,7 @@
       "description": "",
       "icon": "https://media.discordapp.net/attachments/957320875194064926/1036150399704498186/aabdbb6588b83878.png",
       "version": "1.0.0",
-      "address": "DOSE.KR",
+      "address": "172.20.125.180:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<>",
