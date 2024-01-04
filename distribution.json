@@ -367,16 +367,6 @@
           }
         },
         {
-          "id": "dareharu.haru:haru:0.45.0@jar",
-          "name": "Haru Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2538877,
-            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/DareHaruDareHaru-0.45.0-final.jar",
-            "MD5": "26c2de4a80165914e894248589b0bbdf"
-          }
-        },
-        {
           "id": "org.orecruncher:dsurround:4.0.5.0@jar",
           "name": "§3Dynamic Surroundings",
           "type": "ForgeMod",
