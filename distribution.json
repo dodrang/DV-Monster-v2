@@ -478,6 +478,17 @@
           }
         },
         {
+          "id": "res.zip",
+          "name": "res.zip",
+          "type": "File",
+          "artifact": {
+            "size": 35325321,
+            "url": "http://tx-cdn.skhidc.kr:1205/dose/pdr1.zip",
+            "MD5": "3e8362221a206ccf5e646f5a3b87b1e29c24aafe",
+            "path": "resourcepacks/res.zip"
+          }
+        },
+        {
           "id": "lite.zip",
           "name": "lite.zip",
           "type": "File",
