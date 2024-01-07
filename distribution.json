@@ -504,7 +504,9 @@
           "name": "Rubidium",
           "type": "ForgeMod",
           "artifact": {
-            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/rubidium-mc1.16.5-0.2.13.jar"
+            "size": 625052,
+            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/rubidium-mc1.16.5-0.2.13.jar",
+            "MD5" : "b3f1d3460e40e7efc60f503a8d4ba4d551451857"
           }
         },
         {
@@ -512,7 +514,9 @@
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/oculus-mc1.16.5-1.4.6.jar"
+            "size": 3935492,
+            "url": "https://raw.githubusercontent.com/poris551/repo/main/servers/pixelmon-1.16.5/forgemods/required/oculus-mc1.16.5-1.4.6.jar",
+            "MD5": "0ce1cda9fb549783d98f0d822e3e929e4a78c77c"
           }
         },
         {
