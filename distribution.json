@@ -378,7 +378,7 @@
         },
         {
           "id": "org.orecruncher:dsurround:4.0.5.0@jar",
-          "name": "§3Dynamic Surroundings",
+          "name": "Dynamic Surroundings",
           "type": "ForgeMod",
           "artifact": {
             "size": 14746751,
