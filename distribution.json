@@ -447,7 +447,7 @@
           }
         },
         {
-          "id": "armourersworkshop-forge-1.16.5-2.0.11.jar",
+          "id": "moe.plushie:Armourers-Workshop:${version}@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
