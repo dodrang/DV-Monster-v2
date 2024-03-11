@@ -447,13 +447,13 @@
           }
         },
         {
-          "id": "moe.plushie:Armourers-Workshop:1.16.5-2.0.11@jar",
+          "id": "moe.plushie:Armourers-Workshop:1.16.5-2.1.0@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3534652,
-            "url": "https://github.com/Armourers-Workshop/Armourers-Workshop/releases/download/v2.0.11/armourersworkshop-forge-1.16.5-2.0.11.jar",
-            "MD5": "d801465873fd98a360c56ed722478c9a249dcb24"
+            "size": 3536665,
+            "url": "https://github.com/Armourers-Workshop/Armourers-Workshop/releases/download/v2.0.11/armourersworkshop-forge-1.16.5-2.1.0.jar",
+            "MD5": "56207b81bc13f3017ef47152b4efc36767743af8"
           }
         },
         {
